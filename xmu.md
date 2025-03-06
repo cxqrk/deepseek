@@ -2,7 +2,7 @@
 
 > 150 页。面向企业。
 
-[查看《DeepSeek 大模型及其企业应用实践》全文](/docs/DeepSeek内部研讨系列：DeepSeek大模型及其企业应用实践.pdf)
+[查看《DeepSeek 大模型及其企业应用实践》全文](/docs/DeepSeek大模型及其企业应用实践.pdf)
 
 ### 002.《DeepSeek 大模型赋能高校教学和科研》
 
