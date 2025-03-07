@@ -1,4 +1,10 @@
-### ❤ 007.《DeepSeek+DeepResearch 应用》
+### ❤ 008.《DeepSeek 赋能家庭教育》
+
+> 91 页。什么是 AI 家庭教育？DeepSeek 如何赋能家庭教育？
+
+[查看《DeepSeek 赋能家庭教育》全文](//deepseek.ddup.in/docs/DeepSeek赋能家庭教育.pdf)
+
+### 007.《DeepSeek+DeepResearch 应用》
 
 > 59 页。Deep Research，这种 AI 模型擅长于输出各种研究报告，比如学术报告、论文、金融经济报告等，以数据准确性高著称。
 
