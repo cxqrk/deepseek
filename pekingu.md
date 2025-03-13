@@ -1,4 +1,10 @@
-### ❤ 004.《DeepSeek-R1 及类强推理模型开发解读》
+### ❤ 005.《DeepSeek 私有化部署和一体机》
+
+> 121 页。人如何部署 DeepSeek、企业如何部署 DeepSeek 以及 DeepSeek 一体机。
+
+[查看《DeepSeek 私有化部署和一体机》全文](//deepseek.ddup.in/docs/DeepSeek私有化部署和一体机.pdf)
+
+### 004.《DeepSeek-R1 及类强推理模型开发解读》
 
 > 76 页。DeepSeek-R1\Kimi 1.5 及类强推理模型开发解读。
 

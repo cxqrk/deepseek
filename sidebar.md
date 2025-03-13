@@ -2,4 +2,5 @@
 -   [清华大学](/tsinghuau "清华大学deepseek学习资料以及各种报告")
 -   [北京大学](/pekingu)
 -   [厦门大学](/xmu)
+-   [浙江大学](/zju)
 -   [其他大学](/otheru)
