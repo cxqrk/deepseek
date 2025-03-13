@@ -1,3 +1,9 @@
+### 005.《DeepSeek 大模型赋能政府数字化转型》
+
+> 122 页。面向政府部门。
+
+[查看《DeepSeek 大模型赋能政府数字化转型》全文](//deepseek.ddup.in/docs/DeepSeek大模型赋能政府数字化转型.pdf)
+
 ### 004.《DeepSeek 的技术创新分析、启发及原理验证：谈强化学习的影响与 AI 的发展趋势》
 
 > 34 页。主要包含 AI 发展简史、AI 训练的基本原理、Transformer 架构、DeepSeek 技术创新、强化学习、AI 的不足与边界以及 AGI 的实现这７大部分。
